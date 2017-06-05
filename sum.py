@@ -1,4 +1,10 @@
 def sum(a, b):
-   Fsum =a+b
-	Fsum+=1   
+
+ if (a>b)
+    a +=b   
+    return a
+ else
+   Fsum =a+b   
+   Fsum+=1   
     return Fsum
+
