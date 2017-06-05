@@ -5,9 +5,6 @@ def sum(a, b):
     return a
  else
    Fsum =a+b   
-
-   Fsum =a+b
-	Fsum+=1   
-
+   Fsum+=1   
     return Fsum
 
